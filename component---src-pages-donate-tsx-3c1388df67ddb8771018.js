@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[722],{215:function(e,l,n){n.r(l);var t=n(7294),u=n(3547),r=n(5572);l.default=function(){return t.createElement(u.K,null,t.createElement(r.h4,null),t.createElement(u.o,{role:"main"},t.createElement(r.U9,null)),t.createElement(r.$_,null))}}}]);
+//# sourceMappingURL=component---src-pages-donate-tsx-3c1388df67ddb8771018.js.map
