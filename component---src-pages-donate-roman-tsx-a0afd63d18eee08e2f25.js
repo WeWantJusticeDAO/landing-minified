@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[914],{4991:function(e,n,l){l.r(n);var t=l(7294),r=l(3547),a=l(6681);n.default=function(){return t.createElement(r.K,null,t.createElement(a.h4,null),t.createElement(r.o,{role:"main"},t.createElement(a.U9,{romanOnly:!0})),t.createElement(a.$_,null))}}}]);
+//# sourceMappingURL=component---src-pages-donate-roman-tsx-a0afd63d18eee08e2f25.js.map
