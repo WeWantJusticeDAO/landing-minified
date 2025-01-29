@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[847],{4527:function(e,l,n){n.r(l);var t=n(7294),u=n(3547),r=n(8971);l.default=function(){return t.createElement(u.K,null,t.createElement(r.h4,null),t.createElement(u.o,{role:"main"},t.createElement(r.Oe,null)),t.createElement(r.$_,null))}}}]);
+//# sourceMappingURL=component---src-pages-media-inquiry-tsx-fc947fa896ea238fa2ec.js.map
