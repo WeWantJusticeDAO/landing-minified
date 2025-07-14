@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /404
+Disallow: /404.js
+Disallow: /*.pdf$
+Sitemap: https://wewantjusticedao.org/sitemap-index.xml
+Host: https://wewantjusticedao.org
